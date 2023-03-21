@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\노지난\Desktop\데이터구조\Chap01_FindMax\Findmax\Findmax\FileName.cpp(15,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Findmax.vcxproj -> C:\Users\노지난\Desktop\데이터구조\Chap01_FindMax\Findmax\x64\Debug\Findmax.exe
